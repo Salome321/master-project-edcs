@@ -1,5 +1,6 @@
 # master-project-edcs
-Scripts and files for my Masters thesis on the Computational assessment of the DNA damage potential of Endocring Disrupting Chemicals (EDCs).
+Scripts and files for my Masters thesis on the Computational assessment of the DNA damage potential of Endocring Disrupting Chemicals (EDCs).\
+Masters thesis in the LCBC lab (Laboratoire de Chimie et Biochimie Computationnelle) at EPFL.
 
 ## Database
 The Database of Endocrine Disrupting Chemicals and their Toxicity Profiles (DEDuCT).
