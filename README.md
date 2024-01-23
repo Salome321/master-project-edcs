@@ -1,4 +1,4 @@
-# master-project-edcs
+# Masters thesis: Computational risk assessment of the DNA damage potential of EDCs
 Scripts and files for my Masters thesis on the Computational assessment of the DNA damage potential of Endocring Disrupting Chemicals (EDCs).\
 Masters thesis in the LCBC lab (Laboratoire de Chimie et Biochimie Computationnelle) at EPFL.
 
