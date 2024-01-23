@@ -1,4 +1,4 @@
-The script similarity_BPA.ipynb classifies a dataset of molecules according to their similarity with a reference molecule.\
+The script similarity_BPA.ipynb sorts a dataset of molecules according to their similarity with a reference molecule.\
 \
 In this example, the dataset of EDCs is classified according to the similarity with bisphenol A (BPA) or estradiol.
 - input: DUDuCT_ChemicalBasicInformation.csv
